@@ -1,7 +1,3 @@
-loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1267795579736559657/1283875838902669393/obfuscated.lua?ex=66e4960d&is=66e3448d&hm=-- Here Your Free Script Loader Make Sure To Like And Subscribe On My Channel
--- Give Me Credits If You're Going To Use It
-
--- ScreenGui object
 local gui = Instance.new("ScreenGui")
 gui.Name = "CustomLoader"
 gui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
